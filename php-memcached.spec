@@ -4,7 +4,7 @@
 #
 Name     : php-memcached
 Version  : 3.1.5
-Release  : 4
+Release  : 5
 URL      : https://pecl.php.net/get/memcached-3.1.5.tgz
 Source0  : https://pecl.php.net/get/memcached-3.1.5.tgz
 Summary  : No detailed summary available
@@ -49,4 +49,4 @@ make  %{?_smp_mflags}
 
 %files lib
 %defattr(-,root,root,-)
-/usr/lib64/extensions/no-debug-non-zts-20190902/memcached.so
+/usr/lib64/extensions/no-debug-non-zts-20200930/memcached.so
