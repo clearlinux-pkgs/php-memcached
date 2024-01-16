@@ -7,7 +7,7 @@
 #
 Name     : php-memcached
 Version  : 3.2.0
-Release  : 49
+Release  : 50
 URL      : https://pecl.php.net/get/memcached-3.2.0.tgz
 Source0  : https://pecl.php.net/get/memcached-3.2.0.tgz
 Summary  : No detailed summary available
