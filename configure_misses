@@ -1,6 +1,6 @@
 Configure miss: icc
-Configure miss: if debug is enabled
-Configure miss: if zts is enabled
+Configure miss: if PHP is built with thread safety (ZTS)
+Configure miss: if debugging is enabled
 Configure miss: libmemcached sasl.h requirement
 Configure miss: suncc
 Configure miss: whether to enable memcached igbinary serializer support
